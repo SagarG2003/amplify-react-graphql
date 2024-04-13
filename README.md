@@ -23,9 +23,3 @@ AWS Amplify provides a Git-based CI/CD workflow for building, deploying, and hos
 ## System Architecture
 
 ![amplify1](https://github.com/SagarG2003/amplify-react-graphql/assets/113847560/4cb16ed5-1095-407d-bf04-b37e60324a82)
-
-## Steps 
-
-
-
-
